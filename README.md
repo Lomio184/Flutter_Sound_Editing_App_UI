@@ -1,4 +1,4 @@
-# Flutter Music App - MyTime Project
+# Flutter Sound Editing App - Midia App
 
 ![Introduction](/introduce.png)
 
